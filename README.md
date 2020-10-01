@@ -1,4 +1,2 @@
-# Code  
-Some standard codes  
-Be Prepared..  
-Basic CPP codes..
+# Algorithms and Data Structures  
+Some standard C++ codes  

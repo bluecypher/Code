@@ -1,2 +1,2 @@
-# Algorithms and Data Structures  
+# Codes, Algorithms and Data Structures  
 Some standard C++ codes  
